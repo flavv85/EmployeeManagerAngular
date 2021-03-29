@@ -1,5 +1,12 @@
 # Employeemanagerapp
 
+Employee Manager App front end using Angular.
+Angular components 
+Angular Forms
+Angular Routing
+Angular Services
+Boostrap for custom CSS
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
 ## Development server
